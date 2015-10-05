@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/android/cm_email/app/res/values-v19/strings.xml -->
+    <eat-comment/>
+    <string name="attach_file_content_description" translatable="false">@string/add_file_attachment</string>
+</resources>

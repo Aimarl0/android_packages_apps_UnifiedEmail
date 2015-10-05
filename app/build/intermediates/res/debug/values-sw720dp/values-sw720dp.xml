@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/android/cm_email/app/res/values-sw720dp/dimen.xml -->
+    <eat-comment/>
+    <dimen name="snack_bar_max_width">420dp</dimen>
+    <!-- From: file:/D:/android/cm_email/app/res/values-sw720dp/constants.xml -->
+    <eat-comment/>
+    <integer name="conversation_list_search_header_mode">0</integer>
+</resources>

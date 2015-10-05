@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/android/cm_email/app/res/values-w600dp-h879dp/dimen.xml -->
+    <eat-comment/>
+    <dimen name="vacation_responder_margin_horizontal_wide">28dp</dimen>
+    <dimen name="vacation_responder_padding_horizontal_wide">32dp</dimen>
+    <dimen name="vacation_responder_width_tablet">600dp</dimen>
+</resources>

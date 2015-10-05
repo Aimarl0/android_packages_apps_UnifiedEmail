@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/android/cm_email/app/res/values-sw600dp-v19/strings.xml -->
+    <eat-comment/>
+    <string name="preferences_default_reply_all_summary" translatable="false">@string/preferences_default_reply_all_summary_impl</string>
+</resources>

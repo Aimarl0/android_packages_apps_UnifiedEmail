@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/D:/android/cm_email/app/res/values-da/strings.xml -->
+    <eat-comment/>
+    <string-array name="compose_modes">
+    <item msgid="9000553538766397816">"Svar"</item>
+    <item msgid="2767793214788399009">"Svar alle"</item>
+    <item msgid="2758162027982270607">"Videresend"</item>
+  </string-array>
+    <string-array name="prefEntries_autoAdvance">
+    <item msgid="1505450878799459652">"Nyere"</item>
+    <item msgid="8000986144872247139">"Ældre"</item>
+    <item msgid="8015001161633421314">"Samtaleliste"</item>
+  </string-array>
+    <string-array name="prefEntries_removal_action">
+    <item msgid="7381624742404593351">"Arkivér"</item>
+    <item msgid="2567465476369142505">"Slet"</item>
+  </string-array>
+    <string-array name="prefEntries_snapHeader">
+    <item msgid="6906986566816683587">"Vis altid"</item>
+    <item msgid="113299655708990672">"Vis kun i oprejst format"</item>
+    <item msgid="4403750311175924065">"Vis ikke"</item>
+  </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+    <item msgid="8221665977497655719">"Vis nyere samtale efter sletning"</item>
+    <item msgid="1721869262893378141">"Vis ældre samtale efter sletning"</item>
+    <item msgid="880913657385630195">"Vis samtalelisten efter sletning"</item>
+  </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+    <item msgid="4080896545573973751">"Arkivér"</item>
+    <item msgid="6088164268501960435">"Slet"</item>
+  </string-array>
+    <string-array name="prefSummaries_snapHeader">
+    <item msgid="43373293784193461">"Vis altid meddelelseshandlinger øverst på skærmen"</item>
+    <item msgid="1765271305989996747">"Vis kun meddelelseshandlinger øverst på skærmen i portrættilstand"</item>
+    <item msgid="6311113076575333488">"Vis ikke meddelelseshandlinger uden for meddelelsens header"</item>
+  </string-array>
+    <string-array name="sync_status">
+    <item msgid="4600303222943450797">"Gennemført"</item>
+    <item msgid="2835492307658712596">"Ingen forbindelse"</item>
+    <item msgid="5932644761344898987">"Kunne ikke logge ind"</item>
+    <item msgid="7335227237106118306">"Sikkerhedsfejl"</item>
+    <item msgid="8148525741623865182">"Kunne ikke synkronisere"</item>
+    <item msgid="8026148967150231130">"Intern fejl"</item>
+    <item msgid="5442620760791553027">"Serverfejl"</item>
+  </string-array>
+    <plurals name="actionbar_unread_messages">
+    <item msgid="3863201473731766006" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> ulæste"</item>
+  </plurals>
+    <plurals name="confirm_archive_conversation">
+    <item msgid="9105551557653306945" quantity="one">"Vil du arkivere denne samtale?"</item>
+    <item msgid="2001972798185641108" quantity="other">"Vil du arkivere disse <ns1:g id="COUNT">%1$d</ns1:g> samtaler?"</item>
+  </plurals>
+    <plurals name="confirm_delete_conversation">
+    <item msgid="7605755011865575440" quantity="one">"Vil du slette denne samtale?"</item>
+    <item msgid="1585660381208712562" quantity="other">"Vil du slette disse <ns1:g id="COUNT">%1$d</ns1:g> samtaler?"</item>
+  </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+    <item msgid="2030421499893210789" quantity="one">"Vil du slette denne meddelelse?"</item>
+    <item msgid="782234447471532005" quantity="other">"Vil du kassere disse <ns1:g id="COUNT">%1$d</ns1:g> meddelelse?"</item>
+  </plurals>
+    <plurals name="conversation_archived">
+    <item msgid="4859172326053399351" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> arkiveret"</item>
+    <item msgid="8520761617935818623" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> arkiveret"</item>
+  </plurals>
+    <plurals name="conversation_deleted">
+    <item msgid="4819167474123685161" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> slettes"</item>
+    <item msgid="6287534453625638257" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> slettes"</item>
+  </plurals>
+    <plurals name="conversation_folder_changed">
+    <item msgid="7787126147584620603" quantity="one">"En mappe blive ændret"</item>
+    <item msgid="6307772984911017972" quantity="other">"Mapper bliver ændret"</item>
+  </plurals>
+    <plurals name="conversation_muted">
+    <item msgid="3622533556738049499" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> bliver ignoreret"</item>
+    <item msgid="4559007262578295280" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> bliver ignoreret"</item>
+  </plurals>
+    <plurals name="conversation_not_important">
+    <item msgid="7432667428974709669" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> bliver markeret som ikke vigtig"</item>
+    <item msgid="4823331037057239763" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> bliver markeret som ikke vigtig"</item>
+  </plurals>
+    <plurals name="conversation_not_spam">
+    <item msgid="3680479171846552641" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> bliver rapporteret som ikke spam"</item>
+    <item msgid="6351739502184556635" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> bliver rapporteret som ikke spam"</item>
+  </plurals>
+    <plurals name="conversation_phished">
+    <item msgid="3511804715065046338" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> bliver rapporteret som phishing"</item>
+    <item msgid="8400382886585779414" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> bliver rapporteret som phishing"</item>
+  </plurals>
+    <plurals name="conversation_spammed">
+    <item msgid="1749550834135461470" quantity="one">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> bliver rapporteret som spam"</item>
+    <item msgid="664292592683692920" quantity="other">"&lt;b><ns1:g id="COUNT">%1$d</ns1:g>&lt;/b> bliver rapporteret som spam"</item>
+  </plurals>
+    <plurals name="conversation_unstarred">
+    <item msgid="1701235480675303125" quantity="one">"Stjernemarkering fjernes fra <ns1:g id="COUNT">%1$d</ns1:g> samtale"</item>
+    <item msgid="1154441830432477256" quantity="other">"Stjernemarkering fjernes fra <ns1:g id="COUNT">%1$d</ns1:g> samtaler"</item>
+  </plurals>
+    <plurals name="draft">
+    <item msgid="6717535677167943402" quantity="one">"Kladde"</item>
+    <item msgid="1335781147509740039" quantity="other">"Kladder"</item>
+  </plurals>
+    <plurals name="empty_folder_dialog_message">
+    <item msgid="3315412388217832914" quantity="one">"<ns1:g id="COUNT">%1$d</ns1:g> meddelelse vil blive slettet permanent."</item>
+    <item msgid="263840304486020101" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> meddelelser vil blive slettet permanent."</item>
+  </plurals>
+    <plurals name="new_incoming_messages">
+    <item msgid="1532079301006372605" quantity="one">"<ns1:g id="COUNT">%1$d</ns1:g> ny meddelelse"</item>
+    <item msgid="4085982174357328926" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> nye meddelelser"</item>
+  </plurals>
+    <plurals name="new_messages">
+    <item msgid="3446656407520493241" quantity="one">"<ns1:g id="COUNT">%1$d</ns1:g> ny meddelelse"</item>
+    <item msgid="3531683811183204615" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> nye meddelelser"</item>
+  </plurals>
+    <plurals name="num_attachments">
+    <item msgid="5494465717267988888" quantity="one">"<ns1:g id="COUNT">%1$d</ns1:g> vedhæftet fil"</item>
+    <item msgid="5422167728480739361" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> vedhæftede filer"</item>
+  </plurals>
+    <plurals name="num_messages">
+    <item msgid="8071234386915191851" quantity="one">"<ns1:g id="COUNT">%1$d</ns1:g> meddelelse"</item>
+    <item msgid="962415099931188360" quantity="other">"<ns1:g id="COUNT">%1$d</ns1:g> meddelelser"</item>
+  </plurals>
+    <plurals name="show_messages_read">
+    <item msgid="8094857552036574099" quantity="other">"Udvid <ns1:g id="COUNT">%1$d</ns1:g> ældre meddelelser"</item>
+  </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+    <item msgid="2016326586162784420" quantity="other">"Udvidede <ns1:g id="COUNT">%1$d</ns1:g> ældre meddelelser"</item>
+  </plurals>
+    <!-- From: file:/D:/android/cm_email/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-da/values-da.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Naviger hjem"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Naviger op"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Flere muligheder"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Luk"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Se alle"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Vælg en app"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Søg…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ryd forespørgslen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Søgeforespørgsel"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Søg"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Indsend forespørgslen"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Talesøgning"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Del med"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Del med %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Skjul"</string>
+    <!-- From: file:/D:/android/cm_email/app/res/values-da/strings.xml -->
+    <eat-comment/>
+    <string msgid="5720018952998097061" name="account_sync_off">"Kontosynkronisering er slået fra. Slå funktionen til under &lt;a href=\'http://www.example.com\'>kontoindstillingerne.&lt;/a>"</string>
+    <string msgid="8375243281001234750" name="activity_folder_selection">"Vælg mappe..."</string>
+    <string msgid="7489813868539767701" name="activity_mailbox_selection">"Vælg konto"</string>
+    <string msgid="8966077432517613292" name="activity_preferences">"Indstillinger"</string>
+    <string msgid="5905863370226612377" name="add_account">"Tilføj konto"</string>
+    <string msgid="963745641238037813" name="add_bcc_label">"Tilføj Bcc"</string>
+    <string msgid="2249679001141195213" name="add_cc_label">"Tilføj Cc/Bcc"</string>
+    <string msgid="2604880054248593993" name="add_file_attachment">"Vedhæft fil"</string>
+    <string msgid="3285338046038610902" name="add_label">"Tilføj mappe"</string>
+    <string msgid="7163589794940909528" name="add_photo_attachment">"Vedhæft billede"</string>
+    <string msgid="3275117671153616270" name="add_star">"Tilføj stjerne"</string>
+    <string msgid="2098008376913966177" name="address_display_format">"<ns1:g id="NAME">%1$s</ns1:g> <ns1:g id="EMAIL">%2$s</ns1:g>"</string>
+    <string msgid="8108294635074750048" name="address_display_format_with_via_domain">"<ns1:g id="NAME">%1$s</ns1:g> <ns1:g id="EMAIL">%2$s</ns1:g> via <ns1:g id="VIA_DOMAIN">%3$s</ns1:g>"</string>
+    <string msgid="9023770187629170967" name="all_folders_heading">"Alle mapper"</string>
+    <string msgid="556087529413707819" name="always_show_images">"Vis altid billeder fra denne afsender"</string>
+    <string msgid="3763157294047555051" name="always_show_images_toast">"Billeder fra denne afsender vises automatisk."</string>
+    <string msgid="5978663590021719939" name="archive">"Arkivér"</string>
+    <string msgid="6283673603512713022" name="archived">"Arkiveret"</string>
+    <string msgid="2110108876623152162" name="attachment_application_msword">"Dokument"</string>
+    <string msgid="4207340200944655970" name="attachment_application_pdf">"PDF"</string>
+    <string msgid="5585781311136609103" name="attachment_application_vnd_ms_excel">"Regneark"</string>
+    <string msgid="425353008963359230" name="attachment_application_vnd_ms_powerpoint">"Præsentation"</string>
+    <string msgid="7097658089301809284" name="attachment_audio">"Lyd"</string>
+    <string msgid="6375306026208274564" name="attachment_image">"Billede"</string>
+    <string msgid="2274397783497640486" name="attachment_permission_denied">"Tilladelse nægtet for den vedhæftede fil."</string>
+    <string msgid="3485853714965922173" name="attachment_text">"Tekst"</string>
+    <string msgid="3360536730101083926" name="attachment_unknown">"<ns1:g id="ATTACHMENTEXTENSION">%s</ns1:g>-fil"</string>
+    <string msgid="7119476472603939848" name="attachment_video">"Video"</string>
+    <string msgid="3691189864057581214" name="auto_sync_off">"Automatisk synkronisering er slået fra. Tryk for at slå funktionen til."</string>
+    <string msgid="3979372269373936750" name="badge_and_subject">"<ns1:g id="ID_1">%1$s</ns1:g> <ns1:g id="ID_2">%2$s</ns1:g>"</string>
+    <string msgid="519303553518479171" name="bcc">"Bcc"</string>
+    <string msgid="1834716758549842454" name="bcc_header_for_recipient_summary">"Bcc: "</string>
+    <string msgid="1482186590756218269" name="bcc_heading">"Bcc:"</string>
+    <string msgid="6478994981747057817" name="body_hint">"Skriv e-mail"</string>
+    <string msgid="651011686747499628" name="bytes">"<ns1:g id="COUNT">%s</ns1:g> B"</string>
+    <string msgid="4831678293149626190" name="cancel">"Annuller"</string>
+    <string msgid="4155490583610926755" name="cant_move_or_change_labels">"Flytning er ikke mulig, fordi markeringen indeholder flere konti."</string>
+    <string msgid="8768828862207919684" name="cc">"Cc"</string>
+    <string msgid="2928584226469388899" name="cc_attribution">"Cc: <ns1:g id="CC">%1$s</ns1:g>&lt;br>"</string>
+    <string msgid="5603892257866345823" name="cc_heading">"Cc:"</string>
+    <string msgid="9174464298613273814" name="change_folders_selection_dialog_title">"Skift mapper"</string>
+    <string msgid="3615852118397055361" name="change_sync_settings">"Rediger indst. for synkr."</string>
+    <string msgid="3539537264873337959" name="choosertitle_sharevia">"Del via"</string>
+    <string msgid="765949970989448022" name="clear">"Ryd"</string>
+    <string msgid="3952553078559373729" name="clear_display_images_whitelist_dialog_message">"Stop visning af indlejrede billeder i tekst fra afsendere, du tidligere har tilladt."</string>
+    <string msgid="1942692501166848471" name="clear_display_images_whitelist_dialog_title">"Vil du rydde billedtilladelserne?"</string>
+    <string msgid="2012677202404471778" name="clear_display_images_whitelist_title">"Ryd billedtilladelser"</string>
+    <string msgid="5202922561632407778" name="clear_history_dialog_message">"Alle de søgninger, som du har udført, fjernes."</string>
+    <string msgid="3503603389704365385" name="clear_history_dialog_title">"Vil du rydde søgehistorikken?"</string>
+    <string msgid="5536216295725760357" name="clear_history_title">"Ryd søgehistorikken"</string>
+    <!-- From: file:/D:/android/cm_email/app/res/values-da/cm_strings.xml -->
+    <eat-comment/>
+    <string name="clear_suggested_contacts_dialog_message">Alle de foreslåede kontakter, der tidligere er gemt, vil blive slettet.</string>
+    <string name="clear_suggested_contacts_dialog_title">Slet foreslåede kontakter?</string>
+    <!-- From: file:/D:/android/cm_email/app/res/values-da/strings.xml -->
+    <eat-comment/>
+    <string msgid="2602861958391035523" name="compose">"Skriv"</string>
+    <string msgid="5673376086133995913" name="compose_title">"Skriv"</string>
+    <string msgid="5172680524418848519" name="confirm_discard_text">"Vil du kassere denne meddelelse?"</string>
+    <string msgid="6211518590166222735" name="confirm_send_message">"Vil du sende denne meddelelse?"</string>
+    <string msgid="3329355318700201516" name="confirm_send_message_with_no_body">"Der er ingen tekst i selve meddelelsen."</string>
+    <string msgid="1442628074022609987" name="confirm_send_message_with_no_subject">"Der er ingen tekst i meddelelsens emne."</string>
+    <string msgid="6484930184867405276" name="contact_info_string">"Vis kontaktoplysninger for <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="6204228921864816351" name="contact_info_string_default">"Vis kontaktoplysninger"</string>
+    <string msgid="854320355052962069" name="content_description">"<ns1:g id="TOHEADER">%1$s</ns1:g><ns1:g id="PARTICIPANT">%2$s</ns1:g> om <ns1:g id="SUBJECT">%3$s</ns1:g>, <ns1:g id="SNIPPET">%4$s</ns1:g> den <ns1:g id="DATE">%5$s</ns1:g>, <ns1:g id="READSTATE">%6$s</ns1:g>"</string>
+    <string msgid="1634422834354116955" name="content_description_today">"<ns1:g id="TOHEADER">%1$s</ns1:g><ns1:g id="PARTICIPANT">%2$s</ns1:g> om <ns1:g id="SUBJECT">%3$s</ns1:g>, <ns1:g id="SNIPPET">%4$s</ns1:g> kl. <ns1:g id="TIME">%5$s</ns1:g>, <ns1:g id="READSTATE">%6$s</ns1:g>"</string>
+    <string msgid="860548626146933495" name="content_description_today_with_folders">"<ns1:g id="TOHEADER">%1$s</ns1:g><ns1:g id="PARTICIPANT">%2$s</ns1:g> om <ns1:g id="SUBJECT">%3$s</ns1:g>, <ns1:g id="SNIPPET">%4$s</ns1:g> kl. <ns1:g id="TIME">%5$s</ns1:g>, <ns1:g id="READSTATE">%6$s</ns1:g>, etiketter: <ns1:g id="FOLDERS">%7$s</ns1:g>"</string>
+    <string msgid="482368474097191879" name="content_description_with_folders">"<ns1:g id="TOHEADER">%1$s</ns1:g><ns1:g id="PARTICIPANT">%2$s</ns1:g> om <ns1:g id="SUBJECT">%3$s</ns1:g>, <ns1:g id="SNIPPET">%4$s</ns1:g> den <ns1:g id="DATE">%5$s</ns1:g>, <ns1:g id="READSTATE">%6$s</ns1:g>, etiketter: <ns1:g id="FOLDERS">%7$s</ns1:g>"</string>
+    <string msgid="2310064151427072475" name="contextmenu_add_contact">"Tilføj kontaktperson"</string>
+    <string msgid="2584243784216385180" name="contextmenu_copy">"Kopiér"</string>
+    <string msgid="8659897702269320063" name="contextmenu_copylink">"Kopiér linkets webadresse"</string>
+    <string msgid="8881095692316726628" name="contextmenu_dial_dot">"Ring til..."</string>
+    <string msgid="5118951927399465521" name="contextmenu_map">"Kort"</string>
+    <string msgid="6952228183947135362" name="contextmenu_openlink">"Åbn i browser"</string>
+    <string msgid="3834654593200105396" name="contextmenu_send_mail">"Send e-mail"</string>
+    <string msgid="8670940060477758709" name="contextmenu_sharelink">"Del link"</string>
+    <string msgid="5319737001771622657" name="contextmenu_sms_dot">"Sms…"</string>
+    <string msgid="1031172763893491000" name="contextmenu_view_image">"Se billede"</string>
+    <string msgid="6475872337373081683" name="conversation_folder_moved">"Flyttet til <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
+    <string msgid="836483155429003787" name="conversation_photo_welcome_text">"Tryk på afsenderbilledet for at markere samtalen."</string>
+    <string msgid="3121335168340432582" name="copyright">"©<ns1:g id="YEAR">%1$d</ns1:g> Google Inc."</string>
+    <string msgid="971422874488783312" name="copyright_information">"Oplysninger om ophavsret"</string>
+    <string msgid="5794846334232367838" name="custom_date">"Tilpasset"</string>
+    <string msgid="5042317430007736322" name="custom_from_account_label">"Send mail som:"</string>
+    <!-- From: file:/D:/android/cm_email/app/res/values-da/cm_strings.xml -->
+    <eat-comment/>
+    <string name="custom_time">Tilpasset</string>
+    <!-- From: file:/D:/android/cm_email/app/res/values-da/strings.xml -->
+    <eat-comment/>
+    <string msgid="2952994746916149969" name="date_and_view_details">"<ns1:g id="DATE">%1$s</ns1:g> &lt;a href=\'http://www.example.com\'>Se info&lt;/a>"</string>
+    <string msgid="4213063948406397168" name="date_heading">"Dato:"</string>
+    <string msgid="4168417403884350040" name="date_message_received_print">"<ns1:g id="DAY_AND_DATE">%1$s</ns1:g> kl. <ns1:g id="TIME">%2$s</ns1:g>"</string>
+    <string msgid="1061426502665431412" name="date_none">"Ingen"</string>
+    <string msgid="3251555782945051904" name="date_not_set">"Ikke angivet"</string>
+    <!-- From: file:/D:/android/cm_email/app/res/values-da/cm_strings.xml -->
+    <eat-comment/>
+    <string name="default_time">Normal</string>
+    <!-- From: file:/D:/android/cm_email/app/res/values-da/strings.xml -->
+    <eat-comment/>
+    <string msgid="6784262386780496958" name="delete">"Slet"</string>
+    <string msgid="7378013910782008375" name="deleted">"Slettet"</string>
+    <!-- From: file:/D:/android/cm_email/app/res/values-da/cm_strings.xml -->
+    <eat-comment/>
+    <string name="dialog_delete_message">Fjern valgte element?</string>
+    <string name="dialog_delete_title">Slet</string>
+    <!-- From: file:/D:/android/cm_email/app/res/values-da/strings.xml -->
+    <eat-comment/>
+    <string msgid="4905982179911608430" name="discard">"Slet"</string>
+    <string msgid="5699760550972324746" name="discard_changes">"Vil du afvise ændringerne?"</string>
+    <string msgid="5881484193628472105" name="discard_drafts">"Kassér kladder"</string>
+    <string msgid="7520780769812210279" name="discard_failed">"Kassering mislykkedes"</string>
+    <string msgid="5400049020835024519" name="dismiss_tip_hover_text">"Afvis tip"</string>
+    <string msgid="344354738335270292" name="done">"Udfør"</string>
+    <string msgid="8195787340878328119" name="download_again">"Download igen"</string>
+    <string msgid="3878373998269062395" name="download_failed">"Kunne ikke downloade. Tryk for at prøve igen."</string>
+    <string msgid="9122583199850209286" name="draft_count_format">" (<ns1:g id="COUNT">%1$s</ns1:g>)"</string>
+    <string msgid="7032951343184552800" name="draft_heading">"Kladde"</string>
+    <string msgid="7370121943946205024" name="draft_to_heading">"Kladde til:"</string>
+    <string msgid="2065829742127544297" name="drawer_close">"Luk menuen"</string>
+    <string msgid="2285557278907103851" name="drawer_open">"Åbn menuen"</string>
+    <string msgid="3766219846644975778" name="drawer_title">"Navigation"</string>
+    <!-- From: file:/D:/android/cm_email/app/res/values-da/cm_strings.xml -->
+    <eat-comment/>
+    <string name="edit_light_settings">Lysindstillinger for mappe</string>
+    <!-- From: file:/D:/android/cm_email/app/res/values-da/strings.xml -->
+    <eat-comment/>
+    <string msgid="6577383216635400167" name="eml_loader_error_toast">"Denne fil kan ikke åbnes"</string>
+    <string msgid="3227552635613553855" name="empty_folder">"Der er ingen e-mails her."</string>
+    <string msgid="5901734942362315228" name="empty_inbox">"Det var det. Du må have en god dag!"</string>
+    <string msgid="8564899353449880818" name="empty_search">"Ups! Vi fandt ingenting for \"<ns1:g id="SEARCH_QUERY">%1$s</ns1:g>\"."</string>
+    <string msgid="2911988289997281371" name="empty_spam">"Tøm spammappe"</string>
+    <string msgid="1130319045917820569" name="empty_spam_dialog_title">"Skal spammappen tømmes?"</string>
+    <string msgid="3288985543286122800" name="empty_spam_folder">"Hurra, her er ingen spam!"</string>
+    <string msgid="3385937024924728399" name="empty_trash">"Tøm papirkurv"</string>
+    <string msgid="2104898489663621508" name="empty_trash_dialog_title">"Skal papirkurven tømmes?"</string>
+    <string msgid="378119063015945020" name="empty_trash_folder">"Papirkurven er tom. Tak, fordi du genbruger!"</string>
+    <string msgid="2848850136844740850" name="enumeration_comma">", "</string>
+    <string msgid="204247008751740034" name="feedback">"Send feedback"</string>
+    <string msgid="2286628490159574159" name="fetching_attachment">"Henter vedhæftet fil"</string>
+    <string msgid="721666921386074505" name="filtered_tag">"[<ns1:g id="TAG">%1$s</ns1:g>]<ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="6272938864914794739" name="folder_icon_desc">"Mappeikon"</string>
+    <string msgid="5656281444688183676" name="folder_removed">"Fjernet fra <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
+    <string msgid="6466292659577092915" name="folder_shortcut_widget_label">"E-mailmappe"</string>
+    <string msgid="2876312737118986789" name="forms_are_disabled">"Formularer er deaktiveret i Gmail"</string>
+    <string msgid="4397585145490426320" name="forward">"Videresend"</string>
+    <string msgid="597850048345475752" name="forward_attribution">"---------- Videresendt meddelelse ----------&lt;br>Fra: <ns1:g id="FROM">%1$s</ns1:g>&lt;br>Dato: <ns1:g id="DATE">%2$s</ns1:g>&lt;br>Emne: <ns1:g id="SUBJECT">%3$s</ns1:g>&lt;br>Til: <ns1:g id="TO">%4$s</ns1:g>&lt;br>"</string>
+    <string msgid="1828826576779486239" name="forward_attribution_no_headers">"---------- Videresendt meddelelse ----------"</string>
+    <string msgid="5159056500059912358" name="from">"Fra"</string>
+    <string msgid="48290556829713090" name="from_heading">"Fra:"</string>
+    <string msgid="4212138728220418162" name="general_preferences_title">"Generelle indstillinger"</string>
+    <string msgid="4683974765387240723" name="generic_attachment_problem">"Filen kunne ikke vedhæftes."</string>
+    <string msgid="8403333791332403244" name="getting_messages">"Dine meddelelser hentes"</string>
+    <string msgid="7211458338163287670" name="help_and_feedback">"Hjælp og feedback"</string>
+    <string msgid="3708286489943154681" name="help_and_info">"Hjælp"</string>
+    <string msgid="8018801050702453314" name="hide_details">"Skjul info"</string>
+    <string msgid="5768235486834692733" name="hide_elided">"▼ Skjul citeret tekst"</string>
+    <string msgid="7618891933409521283" name="hide_folders">"Skjul mapper"</string>
+    <string msgid="8760314545535838430" name="ignore_spam_warning">"Ignorer. Jeg har tillid til denne."</string>
+    <string msgid="1357564480946178121" name="info">"Oplysninger"</string>
+    <string msgid="9157434699389936584" name="invalid_recipient">"Adressen <ns1:g id="WRONGEMAIL">%s</ns1:g> er ugyldig."</string>
+    <string msgid="1523463964465770347" name="kilobytes">"<ns1:g id="COUNT">%s</ns1:g> kB"</string>
+    <string msgid="323232821061341014" name="label_notification_ticker">"<ns1:g id="LABEL">%s</ns1:g>: <ns1:g id="NOTIFICATION">%s</ns1:g>"</string>
+    <string msgid="3055042669246912518" name="large_unseen_count">"Over <ns1:g id="COUNT">%d</ns1:g> nye"</string>
+    <string msgid="8702691358453560575" name="load_more">"Indlæs mere"</string>
+    <string msgid="7931600025861500397" name="loading_conversation">"Indlæser…"</string>
+    <string msgid="7255732786298655246" name="loading_conversations">"Indlæser..."</string>
+    <string msgid="1660881999120625177" name="long_press_to_select_tip">"Tryk og hold nede for at vælge en samtale, og tryk derefter igen for at vælge flere."</string>
+    <string msgid="4734660452395086786" name="manage_accounts_menu_item">"Administrer konti"</string>
+    <string msgid="2271479734895537848" name="manual_sync">"Synkroniser nu"</string>
+    <string msgid="8781680450177768820" name="mark_important">"Markér som vigtig"</string>
+    <string msgid="3342258155408116917" name="mark_not_important">"Markér som uvigtig"</string>
+    <string msgid="8617774236231366651" name="mark_not_spam">"Rapportér ikke som spam"</string>
+    <string msgid="579388143288052493" name="mark_read">"Markér som læst"</string>
+    <string msgid="6245060538061533191" name="mark_unread">"Markér som ulæst"</string>
+    <string msgid="4674452244417913816" name="me_object_pronoun">"mig"</string>
+    <string msgid="7479328865714008288" name="me_subject_pronoun">"mig"</string>
+    <string msgid="4309397368708773323" name="megabytes">"<ns1:g id="COUNT">%s</ns1:g> MB"</string>
+    <string msgid="2194946192901276625" name="menu_change_folders">"Skift mapper"</string>
+    <string msgid="4575025207594709432" name="menu_compose">"Skriv"</string>
+    <string msgid="8486398523679534519" name="menu_manage_folders">"Indstillinger for mapper"</string>
+    <string msgid="7948877550284452830" name="menu_move_to">"Flyt til"</string>
+    <string msgid="258554178236001444" name="menu_move_to_inbox">"Flyt til Indbakke"</string>
+    <string msgid="3084679038179342333" name="menu_photo_print">"Udskriv"</string>
+    <string msgid="2742869476474613396" name="menu_photo_save_all">"Gem alle"</string>
+    <string msgid="6410980274832639330" name="menu_photo_share">"Del"</string>
+    <string msgid="3049053252719665320" name="menu_photo_share_all">"Del alle"</string>
+    <string msgid="1949652467806052768" name="menu_search">"Søg"</string>
+    <string msgid="7993485401501778040" name="menu_settings">"Indstillinger"</string>
+    <string msgid="2330398228979616661" name="menu_show_original">"Vis oprindelig størrelse"</string>
+    <string msgid="8653049392208282481" name="menu_toggle_drawer">"Åbn eller luk skuffe"</string>
+    <string msgid="60771875776494764" name="message_details_title">"Meddelelsesinfo"</string>
+    <string msgid="6792661321962262024" name="message_discarded">"Meddelelsen er kasseret."</string>
+    <string msgid="7887650587384601790" name="message_failed">"Mislykkedes"</string>
+    <string msgid="8002758842580134835" name="message_invite_accept">"Ja"</string>
+    <string msgid="9181966650840809197" name="message_invite_calendar_view">"Vis i Kalender"</string>
+    <string msgid="6331040872447290777" name="message_invite_decline">"Nej"</string>
+    <string msgid="4194264767870003397" name="message_invite_label_attending">"Deltager du?"</string>
+    <string msgid="3199418731566655887" name="message_invite_tentative">"Måske"</string>
+    <string msgid="5985161025144867256" name="message_invite_title">"Invitation i Kalender"</string>
+    <string msgid="5335188121407261331" name="message_retrying">"Forsøger igen…"</string>
+    <string msgid="3291655042310241793" name="message_saved">"Meddelelsen er gemt som kladde."</string>
+    <string msgid="2899691682394864507" name="more_info_attachment">"Oplysninger"</string>
+    <string msgid="4052506464467083621" name="move_to_selection_dialog_title">"Flyt til"</string>
+    <string msgid="1386588046275174918" name="multiple_new_message_notification_item"><b>"<ns1:g id="SENDER">%1$s</ns1:g>"</b>"   <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <string msgid="9164839998562321569" name="mute">"Ignorer"</string>
+    <string msgid="5931164247644972255" name="network_error">"Ingen forbindelse"</string>
+    <string msgid="2662478712866255138" name="next">"Næste"</string>
+    <string msgid="7309485680354949680" name="no_application_found">"Der er ikke nogen app, der kan åbne og vise denne vedhæftede fil."</string>
+    <string msgid="5622708348540036959" name="no_subject">"(intet emne)"</string>
+    <string msgid="3044618511909304701" name="non_synced_folder_description">"Synkroniser denne mappe for at se samtaler."</string>
+    <string msgid="3600180500934086346" name="not_synced_title">"Kontoen er ikke synkroniseret"</string>
+    <string msgid="2884874164831039047" name="notification_action_archive">"Arkivér"</string>
+    <string msgid="3201627482564624132" name="notification_action_delete">"Slet"</string>
+    <string msgid="3714785653186750981" name="notification_action_remove_label">"Fjern etiket"</string>
+    <string msgid="8378725460102575919" name="notification_action_reply">"Svar"</string>
+    <string msgid="5693469099941000037" name="notification_action_reply_all">"Svar alle"</string>
+    <string msgid="600186958134073582" name="notification_action_undo_archive">"Arkiveret"</string>
+    <string msgid="6915612337413587103" name="notification_action_undo_delete">"Slettet"</string>
+    <string msgid="8341924850540100690" name="notification_action_undo_remove_label">"Etiketten blev fjernet"</string>
+    <string msgid="6178802457914802336" name="ok">"OK"</string>
+    <string msgid="8643615555920977752" name="open_source_licenses">"Open source-licenser"</string>
+    <string msgid="7886090597023240426" name="overflow_description">"Flere muligheder"</string>
+    <string msgid="4142617042507912053" name="phone">"telefon"</string>
+    <string msgid="577471721679146999" name="photo_load_failed">"Billedet kunne ikke indlæses"</string>
+    <string msgid="733396083649496600" name="pick_end_date_title">"Slutter (valgfrit)"</string>
+    <string msgid="2274665037355224165" name="pick_start_date_title">"Starter"</string>
+    <string msgid="3953824147776128899" name="please_wait">"Vent…"</string>
+    <string msgid="5459235590885640678" name="prefDialogTitle_autoAdvance">"Gå frem til"</string>
+    <string msgid="7914272565548361304" name="prefDialogTitle_removal_action">"Standardhandling"</string>
+    <!-- From: file:/D:/android/cm_email/app/res/values-da/cm_strings.xml -->
+    <eat-comment/>
+    <string name="prefDialogTitle_suggestedContactsMode">Tilstand</string>
+    <string name="prefDialogTitle_suggestedContactsMode_all">Alle</string>
+    <string name="prefDialogTitle_suggestedContactsMode_none">Deaktiveret</string>
+    <string name="prefDialogTitle_suggestedContactsMode_recents">Seneste</string>
+    <string name="prefDialogTitle_suggestedContactsMode_summary_all">Alle foreslåede kontaktpersoner kan vælges</string>
+    <string name="prefDialogTitle_suggestedContactsMode_summary_none">Funktion til at foreslå kontakter er deaktiveret</string>
+    <string name="prefDialogTitle_suggestedContactsMode_summary_recents">Kun nyligt foreslåede kontakter kan vælges</string>
+    <string name="pref_lights_default">Standard</string>
+    <!-- From: file:/D:/android/cm_email/app/res/values-da/strings.xml -->
+    <eat-comment/>
+    <string msgid="6385669491239514630" name="preference_advance_to_title">"Efterfølgende skærm"</string>
+    <string msgid="7318645995655875718" name="preference_confirm_before_archive_title">"Bekræft før arkivering"</string>
+    <string msgid="7563587174619033835" name="preference_confirm_before_delete_title">"Bekræft før sletning"</string>
+    <string msgid="4136585783513077039" name="preference_confirm_before_send_title">"Bekræft før afsendelse"</string>
+    <string msgid="3922674681156121948" name="preference_header_action_confirmations">"Bekræftelse af handlinger"</string>
+    <!-- From: file:/D:/android/cm_email/app/res/values-da/cm_strings.xml -->
+    <eat-comment/>
+    <string name="preference_header_suggested_contacts">Foreslåede kontakter</string>
+    <!-- From: file:/D:/android/cm_email/app/res/values-da/strings.xml -->
+    <eat-comment/>
+    <string msgid="3128186577060329884" name="preference_removal_action_title">"Standardhandling"</string>
+    <string msgid="3586817690132199889" name="preference_sender_image_description">"Vis ud for navnet på samtalelisten"</string>
+    <string msgid="7890813537985591865" name="preference_sender_image_title">"Afsenderbillede"</string>
+    <!-- From: file:/D:/android/cm_email/app/res/values-da/cm_strings.xml -->
+    <eat-comment/>
+    <string name="preference_suggested_contacts_clear_all">Slet foreslåede kontakter</string>
+    <string name="preference_suggested_contacts_mode">Tilstand for foreslåede kontakter</string>
+    <!-- From: file:/D:/android/cm_email/app/res/values-da/strings.xml -->
+    <eat-comment/>
+    <string msgid="3036560323237015010" name="preference_swipe_description">"På samtaleliste"</string>
+    <string msgid="2073613840893904205" name="preference_swipe_title">"Strygehandlinger"</string>
+    <string msgid="5730999743867653106" name="preferences_conversation_mode_summary">"Formindsk meddelelser, så de passer til skærmen"</string>
+    <string msgid="389352009651720838" name="preferences_conversation_mode_title">"Tilpas meddelelser automatisk"</string>
+    <string msgid="895581085692979709" name="preferences_default_reply_all_summary_impl">"Brug som standardsvar på meddelelser"</string>
+    <string msgid="7255858488369635327" name="preferences_default_reply_all_title">"Svar alle"</string>
+    <string msgid="7257824136988429629" name="preferences_disable_snap_headers_title">"Meddelelseshandlinger"</string>
+    <string msgid="4801741764511807064" name="preferences_signature_dialog_title">"Signatur"</string>
+    <string msgid="3776614319388053784" name="preferences_signature_summary_not_set">"Ikke angivet"</string>
+    <string msgid="2318034745474929902" name="preferences_signature_title">"Signatur"</string>
+    <string msgid="2268482117730576123" name="preferences_vacation_responder_title">"Autosvar"</string>
+    <string msgid="6265457626086113833" name="preview_attachment">"Vis eks."</string>
+    <string msgid="8985379053279804274" name="previous">"Forrige"</string>
+    <string msgid="7987949243936577207" name="print">"Udskriv"</string>
+    <string msgid="4011022762279519941" name="print_all">"Udskriv alle"</string>
+    <string msgid="8895536548487605661" name="print_dialog">"Udskriv…"</string>
+    <string msgid="212094623396418302" name="privacy_policy">"Privatlivspolitik"</string>
+    <!-- From: file:/D:/android/cm_email/app/res/values-da/cm_strings.xml -->
+    <eat-comment/>
+    <string name="pulse_length_always_on">Altid til</string>
+    <string name="pulse_length_long">Lang</string>
+    <string name="pulse_length_normal">Normal</string>
+    <string name="pulse_length_short">Kort</string>
+    <string name="pulse_length_very_long">Meget lang</string>
+    <string name="pulse_length_very_short">Meget kort</string>
+    <string name="pulse_speed_fast">Hurtig</string>
+    <string name="pulse_speed_normal">Normal</string>
+    <string name="pulse_speed_slow">Langsom</string>
+    <string name="pulse_speed_title">Blinklængde og hastighed</string>
+    <string name="pulse_speed_very_fast">Meget hurtig</string>
+    <string name="pulse_speed_very_slow">Meget langsom</string>
+    <!-- From: file:/D:/android/cm_email/app/res/values-da/strings.xml -->
+    <eat-comment/>
+    <string msgid="977782904293216533" name="quoted_text">"Inkluder citeret tekst"</string>
+    <string msgid="5256754205675159141" name="quoted_text_hidden_print">"Citeret tekst er skjult"</string>
+    <string msgid="2296807722849923934" name="quoted_text_label">"Citat"</string>
+    <string msgid="5495929677508576520" name="read_string">"samtalen er læst"</string>
+    <string msgid="8943134955788867702" name="recent_folders_heading">"Seneste mapper"</string>
+    <string msgid="319816879398937214" name="recipient_needed">"Tilføj mindst én modtager."</string>
+    <string msgid="1533748989749277511" name="refresh">"Opdater"</string>
+    <string msgid="1478445871170879140" name="remove_attachment_desc">"Fjern den vedhæftede fil <ns1:g id="ATTACHMENTNAME">%s</ns1:g>"</string>
+    <string msgid="2379905457788576297" name="remove_folder">"Fjern fra <ns1:g id="FOLDERNAME">%1$s</ns1:g>"</string>
+    <string msgid="9126690774161840733" name="remove_star">"Fjern stjernemarkering"</string>
+    <string msgid="8337757482824207118" name="reply">"Svar"</string>
+    <string msgid="5366796103758360957" name="reply_all">"Svar alle"</string>
+    <string msgid="1114972798797833259" name="reply_attribution">"Den <ns1:g id="DATE">%s</ns1:g> skrev <ns1:g id="PERSON">%s</ns1:g>:"</string>
+    <string msgid="6260338807944002651" name="reply_choice_frowning_face">":("</string>
+    <string msgid="6054314968043050748" name="reply_choice_hehe">"Haha"</string>
+    <string msgid="2496652737796884298" name="reply_choice_i_agree">"Jeg accepterer"</string>
+    <string msgid="4629219072859486413" name="reply_choice_later">"OK, jeg vender tilbage til dig"</string>
+    <string msgid="4465894941302838676" name="reply_choice_nice">"Sådan!"</string>
+    <string msgid="7068775605915475207" name="reply_choice_no">"Nej"</string>
+    <string msgid="7881073621845053152" name="reply_choice_ok">"OK"</string>
+    <string msgid="1772253938506548631" name="reply_choice_smiling_face">":)"</string>
+    <string msgid="4978961954288364694" name="reply_choice_thanks">"Tak"</string>
+    <string msgid="3327633032975373220" name="reply_choice_yes">"Ja"</string>
+    <string msgid="5645003971107444269" name="reply_on_my_way">"Er på vej"</string>
+    <string msgid="8275255318292059079" name="replyto_heading">"Svar til:"</string>
+    <string msgid="4318141326014579036" name="report">"Rapportér"</string>
+    <string msgid="8454666464488413739" name="report_phishing">"Rapportér phishing"</string>
+    <string msgid="4106897677959987340" name="report_spam">"Rapportér spam"</string>
+    <string msgid="6609746292081928078" name="respond_inline">"Svar indlejret"</string>
+    <string msgid="1272723181782570649" name="resume_draft">"Rediger"</string>
+    <string msgid="916102442074217293" name="retry">"Prøv igen"</string>
+    <string msgid="375685179032130033" name="save_attachment">"Gem"</string>
+    <string msgid="2669523480789672118" name="save_draft">"Gem kladde"</string>
+    <string msgid="161536102236967534" name="saved">"Gemt, <ns1:g id="SIZE">%s</ns1:g>"</string>
+    <string msgid="6274238733828387433" name="saving">"Gemmer..."</string>
+    <string msgid="8038224690392783652" name="search_back_desc">"Luk søgningen"</string>
+    <string msgid="3044261775183044862" name="search_clear_desc">"Ryd søgeteksten"</string>
+    <string msgid="7060626585689391003" name="search_hint">"Søg"</string>
+    <string msgid="1461946302763342640" name="search_history_cleared">"Søgehistorikken er ryddet."</string>
+    <string msgid="1529438451150580188" name="search_results_header">"Resultater"</string>
+    <string msgid="4165491276003825492" name="search_suggestion_desc">"Forslag: <ns1:g id="SUGGESTION">%s</ns1:g>"</string>
+    <string msgid="2873920566477359177" name="search_unsupported">"Søgningen understøttes ikke på denne konto."</string>
+    <string msgid="9103854398344077204" name="search_voice_desc">"Start talesøgning"</string>
+    <string msgid="6619955920101834286" name="security_hold_required_text">"Sikkerhedsopdatering nødvendig for <ns1:g id="EMAIL_ADDRESS">%1$s</ns1:g>"</string>
+    <string msgid="353236686616663062" name="select_attachment_type">"Vælg typen af ​​vedhæftet fil"</string>
+    <string msgid="4269810089682120826" name="send">"Send"</string>
+    <string msgid="2727576121007079643" name="send_anyway">"Send alligevel"</string>
+    <string msgid="2186285547449865010" name="send_failed">"Meddelelsen blev ikke sendt."</string>
+    <string msgid="124432913980620545" name="send_to_contacts_text">"Send kun til mine kontaktpersoner"</string>
+    <string msgid="5064559546745918393" name="send_to_domain_text">"Send kun til <ns1:g id="DOMAIN">%1$s</ns1:g>"</string>
+    <string msgid="2490984995927904030" name="sender_whitelist_cleared">"Billeder vil ikke blive vist automatisk."</string>
+    <string msgid="6549228851819460081" name="senders_split_token">", "</string>
+    <string msgid="5600034886763930499" name="sending">"Sender…"</string>
+    <string msgid="2487846954946637084" name="sending_message">"Sender meddelelsen..."</string>
+    <string msgid="7543009262788808443" name="set_end_date_dialog_title">"Slutdato (valgfrit)"</string>
+    <string msgid="1562534040126088628" name="shortcut_name_title">"Genvej til navngivning af mappe"</string>
+    <string msgid="2874876876336599985" name="show">"Vis"</string>
+    <string msgid="3456154624105704327" name="show_elided">"Se citeret tekst"</string>
+    <string msgid="436044894053204084" name="show_images">"Vis billeder"</string>
+    <string msgid="1005879825500056552" name="show_n_more_folders">"Vis <ns1:g id="NUMBER">%1$s</ns1:g> mapper"</string>
+    <string msgid="3172144541947408374" name="signature">\n\n"<ns1:g id="SIGNATURE">%s</ns1:g>"</string>
+    <string msgid="4699091478139791244" name="signin">"Log ind"</string>
+    <string msgid="1570794756474381886" name="silent_ringtone">"Lydløs"</string>
+    <string msgid="2170154732664242904" name="single_new_message_notification_big_text">"<ns1:g id="SUBJECT">%1$s</ns1:g>\n<ns1:g id="SNIPPET">%2$s</ns1:g>"</string>
+    <string msgid="7954710563222504868" name="single_new_message_notification_title">"<ns1:g id="SENDER">%1$s</ns1:g>: <ns1:g id="SUBJECT">%2$s</ns1:g>"</string>
+    <!-- From: file:/D:/android/cm_email/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-da/values-da.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <!-- From: file:/D:/android/cm_email/app/res/values-da/strings.xml -->
+    <eat-comment/>
+    <string msgid="4783683938444150638" name="storage">"Lager"</string>
+    <string msgid="2136470287303571827" name="subject_hint">"Emne"</string>
+    <!-- From: file:/D:/android/cm_email/app/res/values-da/cm_strings.xml -->
+    <eat-comment/>
+    <string name="suggested_contacts_cleared">Foreslåede kontakter slettet.</string>
+    <!-- From: file:/D:/android/cm_email/app/res/values-da/strings.xml -->
+    <eat-comment/>
+    <string msgid="1795794969006241678" name="sync_error">"Det var ikke muligt at synkronisere."</string>
+    <string msgid="4182644657243736635" name="sync_error_message">"Enheden har ikke nok lagerplads til at synkronisere."</string>
+    <string msgid="4593581125469224791" name="tablet">"tablet"</string>
+    <string msgid="137172348280050643" name="tap_to_configure">"Tryk for at konfigurere"</string>
+    <string msgid="3280434399275638071" name="tap_to_configure_folder_sync">"Synkroniser mappe"</string>
+    <string msgid="3971614275716830581" name="to">"Til"</string>
+    <string msgid="3495203282540398336" name="to_heading">"Til: "</string>
+    <string msgid="679167047628308670" name="to_heading_no_space">"Til:"</string>
+    <string msgid="3954385178027011919" name="to_message_header">"til <ns1:g id="RECIPIENTS">%1$s</ns1:g>"</string>
+    <string msgid="1006469736520919028" name="toggle_read_unread">"Skift mellem læst og ulæst"</string>
+    <string msgid="4964155563465970480" name="too_large_to_attach_additional">"Filen blev ikke vedhæftet. Grænsen på <ns1:g id="MAXSIZE">%1$s</ns1:g> er nået."</string>
+    <string msgid="1620163295709036343" name="too_large_to_attach_multiple">"En eller flere filer blev ikke vedhæftet. Grænsen er <ns1:g id="MAXSIZE">%1$s</ns1:g>."</string>
+    <string msgid="2669897137966512530" name="too_large_to_attach_single">"En fil over <ns1:g id="MAXSIZE">%1$s</ns1:g> kan ikke vedhæftes."</string>
+    <string msgid="614939812938149398" name="turn_auto_sync_on_dialog_body">"Ændringer, du foretager i alle apps og konti, ikke kun Gmail, synkroniseres mellem nettet, dine andre enheder og din <ns1:g id="PHONE_OR_TABLET">%1$s</ns1:g>."</string>
+    <string msgid="7239160845196929866" name="turn_auto_sync_on_dialog_confirm_btn">"Slå til"</string>
+    <string msgid="543412762396502297" name="turn_auto_sync_on_dialog_title">"Vil du slå automatisk synkronisering til?"</string>
+    <string msgid="8256285267701059609" name="undo">"Fortryd"</string>
+    <string msgid="7342558841698083381" name="unread_string">"samtalen er ulæst"</string>
+    <string msgid="5509898665569695288" name="unseen_count">"<ns1:g id="COUNT">%d</ns1:g> nye"</string>
+    <string msgid="146722891559469589" name="unsent_messages_in_outbox">"<ns1:g id="NUMBER">%1$s</ns1:g> usendte meddelelser i <ns1:g id="OUTBOX">%2$s</ns1:g>"</string>
+    <string msgid="3527335757205741077" name="update_security_text">"opdater nu"</string>
+    <string msgid="5570132559074523806" name="vacation_responder">"Autosvar"</string>
+    <string msgid="9087613123105158494" name="vacation_responder_body_hint_text">"Meddelelse"</string>
+    <string msgid="21756037735539983" name="vacation_responder_changes_discarded">"Ændringer i autosvar er afvist"</string>
+    <string msgid="91448817268121249" name="vacation_responder_changes_saved">"Ændringer i autosvar er gemt"</string>
+    <string msgid="6233629618520852439" name="vacation_responder_empty_subject_and_body_warning">"Tilføj et emne eller en meddelelse"</string>
+    <string msgid="4429909341193366667" name="vacation_responder_off">"Fra"</string>
+    <string msgid="4913238379320882449" name="vacation_responder_on">"Til – fra den <ns1:g id="DATE">%1$s</ns1:g>"</string>
+    <string msgid="4360941815371475955" name="vacation_responder_on_with_end_date">"Til – fra den <ns1:g id="START_DATE">%1$s</ns1:g> til den <ns1:g id="END_DATE">%2$s</ns1:g>"</string>
+    <string msgid="2670378260196977266" name="veiled_address"/>
+    <string msgid="6343564357099807582" name="veiled_alternate_text"/>
+    <string msgid="6728323554307952217" name="veiled_alternate_text_unknown_person"/>
+    <string msgid="2122359944161241551" name="veiled_summary_unknown_person"/>
+    <string msgid="1161745345056656547" name="version">"<ns1:g id="APP_NAME">%1$s</ns1:g> version <ns1:g id="VERSION">%2$s</ns1:g>"</string>
+    <string msgid="537951148511529082" name="via_domain">"via <ns1:g id="VIADOMAIN">%1$s</ns1:g>"</string>
+    <string msgid="3241990517052398927" name="view_app_page"/>
+    <string msgid="823281796655014454" name="view_entire_message">"Vis hele meddelelsen"</string>
+    <string msgid="8377920000247101901" name="view_more_conversations">"Vis flere samtaler"</string>
+    <string msgid="8493517060419469738" name="voice_search_not_supported">"Talesøgning understøttes ikke på denne enhed."</string>
+    <string msgid="2823149409451003378" name="wait_for_manual_sync_body">"Denne konto er ikke konfigureret til automatisk synkronisering.\nTryk på "<b>"Synkroniser nu"</b>" for at synkronisere e-mails én gang, eller tryk på "<b>"Rediger indstillinger for synkronisering"</b>" for at konfigurere denne konto til at synkronisere e-mail automatisk."</string>
+    <string msgid="4577632826912823075" name="wait_for_sync_title">"Venter på synkronisering"</string>
+    <string msgid="8699435859096455837" name="widget_large_unread_count">"%d+"</string>
+</resources>

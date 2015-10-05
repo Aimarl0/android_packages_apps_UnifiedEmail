@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/android/cm_email/app/res/values-sw360dp/dimen.xml -->
+    <eat-comment/>
+    <dimen name="drawer_width">304dp</dimen>
+</resources>

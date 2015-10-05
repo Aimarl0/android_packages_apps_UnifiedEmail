@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/android/cm_email/app/res/values-sw600dp-land/constants.xml -->
+    <eat-comment/>
+    <bool name="is_tablet_landscape">true</bool>
+    <!-- From: file:/D:/android/cm_email/app/res/values-sw600dp-land/dimen.xml -->
+    <eat-comment/>
+    <dimen name="vacation_responder_padding_horizontal">80dp</dimen>
+    <!-- From: file:/D:/android/cm_email/app/res/values-sw600dp-land/constants.xml -->
+    <eat-comment/>
+    <integer name="compose_padding_weight">15</integer>
+    <!-- From: file:/D:/android/cm_email/app/res/values-sw600dp-land/styles.xml -->
+    <eat-comment/>
+    <style name="ComposeArea" parent="AbstractComposeAreaWithRtl">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">70</item>
+        <item name="android:maxWidth">@dimen/compose_scrollview_max_width</item>
+    </style>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/android/cm_email/app/res/values-sw320dp/defaults.xml -->
+    <eat-comment/>
+    <integer name="prefDefault_snapHeader">0</integer>
+</resources>
